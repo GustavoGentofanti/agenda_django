@@ -7,4 +7,9 @@ so you can focus on writing your app without needing to reinvent the wheel. Itâ€
 In addition to, I used SQLite3, SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, 
 full-featured, SQL database engine. <br /> <br />
 
+Commands: <br /> <br />
+:black_small_square: /accounts <br />
+:black_small_square: /accounts/cadastro <br />
+:black_small_square: /accounts/dashboard <br /> <br />
+
 ![image](https://user-images.githubusercontent.com/98665008/182264623-d720ea84-479e-406f-8866-2ac70681c333.png)
